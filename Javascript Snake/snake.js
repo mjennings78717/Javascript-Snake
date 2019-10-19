@@ -1,3 +1,5 @@
+// Original code created by Code Explained at https://www.youtube.com/watch?v=9TcU2C1AACw
+
 const cvs = document.getElementById("snake");
 const ctx = cvs.getContext("2d");
 
